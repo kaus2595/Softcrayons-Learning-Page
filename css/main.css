@@ -1154,7 +1154,7 @@ ul.nav > li > a.active{
 .review-carousel .owl-dots{
     display: block;
     text-align: center;
-    margin-top: 50px;
+    margin-top: 20px; 
 }
 .review-carousel .owl-dots .owl-dot{
     background-color: #ddd;
@@ -1171,6 +1171,7 @@ ul.nav > li > a.active{
     transform: scale(1.9);
     transition: all 0.5s ease-in-out;
 }
+
 
 /* ==========================================================================
    Blog Section
@@ -1250,7 +1251,7 @@ ul.nav > li > a.active{
    ========================================================================== */
 .subscribe-section{
     background: #f7f7f7;
-    padding: 70px 0;
+    padding: 20px 0;
 }
 .subscribe-wrapper{}
 .subscribe-wrap{
