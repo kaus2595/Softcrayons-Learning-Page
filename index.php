@@ -5,8 +5,8 @@ if(isset($_POST['submit']))
 
 $name = 'name';
 $email = 'email';
-$to_email = 'Sachin.yadavk98@gmail.com';
-$subject = 'subject';
+$to_email = 'monusam2595@gmail.com';
+$phone = 'phon';
 $message = 'message';
 $headers = 'From:'.$_POST['email'];
 $msg =  "Hi Sir new User For Digital Markteting : 
